@@ -1,10 +1,10 @@
-# Programa de Leitura online e Downlod de livros
+# Programa de Leitura online e Download de livros
 
 Projeto pessoal
 
 Link para heroku: 
 
-Aplicação que permite a leitura de livros online e downlods de livros disponiveis para tal. Esta aplicação tem como fim treinamento da linguagem java, Spreing boot e thymeleaf.
+Aplicação que permite a leitura de livros online e downloads de livros disponiveis para tal. Esta aplicação tem como fim treinamento da linguagem java, Spreing boot e thymeleaf.
 
 ## Como rodar
 
