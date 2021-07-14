@@ -21,7 +21,7 @@ Abra a IDE e clique em 'help' na barra de menu superior e em seguida em 'Eclipse
 
 Após a instalação navegue até o arquivo 'EventosappApplication.java' e inicie o projeto via 'Spring Tools'
 ```
-src/main/java/com/eventosapp/EventosappApplication.java
+src/main/java/com/eventosapp/LivrariaappApplication.java
 ```
 
 ### Configurando a Base de Dados
